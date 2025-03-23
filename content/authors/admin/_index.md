@@ -3,7 +3,7 @@
 #title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Casepr Lin
+name_pronunciation: Casper Lin
 
 # Full name (for SEO)
 first_name: Casper
